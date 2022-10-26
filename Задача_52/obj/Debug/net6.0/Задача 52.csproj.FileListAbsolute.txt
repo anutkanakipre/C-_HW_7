@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\bin\Debug\net6.0\Задача 52.exe
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\bin\Debug\net6.0\Задача 52.deps.json
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\bin\Debug\net6.0\Задача 52.runtimeconfig.json
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\bin\Debug\net6.0\Задача 52.dll
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\bin\Debug\net6.0\Задача 52.pdb
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\Задача 52.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\Задача 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\Задача 52.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\Задача 52.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\Задача 52.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\Задача 52.dll
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\refint\Задача 52.dll
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\Задача 52.pdb
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\Задача 52.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_7\ДЗ_7\Задача 52\obj\Debug\net6.0\ref\Задача 52.dll
